@@ -67,4 +67,4 @@ Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (
 - **[Loan-Approval-Prediction-System-Machine-Learning-Project](https://github.com/EDENMALKA123/Loan-Approval-Prediction-System-Machine-Learning-Project)** — Credit default modeling and transparent recommendations  
 - **[University-Projects](https://github.com/EDENMALKA123/University-Projects)** — Academic work in Statistics & Data Science (HUJI)
 
-**Static HTML reports (read-only exports):** [Cyber asset risk](https://EDENMALKA123.github.io/cyber-asset-risk-analytics/) · [Trial conversion](https://EDENMALKA123.github.io/trial-conversion-prediction-ml/) — enable **GitHub Pages** (`Settings → Pages → /docs`) on each repo if links show 404.
+**Static HTML reports (read-only exports):** [Cyber asset risk](https://edenmalka123.github.io/cyber-asset-risk-analytics/) · [Trial conversion](https://edenmalka123.github.io/trial-conversion-prediction-ml/) — if a link returns 404, wait 1–2 minutes after push or check **Settings → Pages** (source: **main** / **/docs**).
