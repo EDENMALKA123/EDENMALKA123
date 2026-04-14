@@ -66,3 +66,5 @@ Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (
 - **[trial-conversion-prediction-ml](https://github.com/EDENMALKA123/trial-conversion-prediction-ml)** — B2B trial-to-paid prediction: time-based split, XGBoost vs. baselines, calibration, SHAP, monthly MAE/MAPE  
 - **[Loan-Approval-Prediction-System-Machine-Learning-Project](https://github.com/EDENMALKA123/Loan-Approval-Prediction-System-Machine-Learning-Project)** — Credit default modeling and transparent recommendations  
 - **[University-Projects](https://github.com/EDENMALKA123/University-Projects)** — Academic work in Statistics & Data Science (HUJI)
+
+**Static HTML reports (read-only exports):** [Cyber asset risk](https://EDENMALKA123.github.io/cyber-asset-risk-analytics/) · [Trial conversion](https://EDENMALKA123.github.io/trial-conversion-prediction-ml/) — enable **GitHub Pages** (`Settings → Pages → /docs`) on each repo if links show 404.
