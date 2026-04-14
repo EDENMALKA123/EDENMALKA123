@@ -4,17 +4,13 @@
 
 ---
 
-#### About me
+#### Core skills (at a glance)
 
-I train and evaluate **machine learning** and **deep learning** models in **Python** on large-scale data, with a strong base in **algorithms**, **statistical modeling**, and **end-to-end ML pipelines**. At DataMED Lab I work on clinical and imaging data (including MRI and physician reports): **ML/LLM** solutions for information extraction, prediction, and automated workflows; tools for **evaluation**, **error analysis**, and **performance optimization**; and collaboration with clinical and research teams on scalable methods.
-
-Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (SQL, Excel, R, BI); **Implementation Specialist** at Ness Technologies (SAP financial data).
-
-**Languages:** Hebrew (native) · English (fluent)
+Python · PyTorch · TensorFlow · scikit-learn · SQL · R · MATLAB · pandas · NumPy · transformers · spaCy · GLMs & regression · deep learning · time series · Tableau · Power BI · Git · statistical modeling · ML/LLM pipelines · evaluation & error analysis
 
 ---
 
-#### Skills
+#### Full skills (from my CV)
 
 **Programming:** Python (NumPy, pandas, scikit-learn, TensorFlow, **PyTorch**), **R**, **SQL**, MATLAB
 
@@ -30,10 +26,20 @@ Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (
 
 ---
 
+#### About me
+
+I train and evaluate **machine learning** and **deep learning** models in **Python** on large-scale data, with a strong base in **algorithms**, **statistical modeling**, and **end-to-end ML pipelines**. At DataMED Lab I work on clinical and imaging data (including MRI and physician reports): **ML/LLM** solutions for information extraction, prediction, and automated workflows; tools for **evaluation**, **error analysis**, and **performance optimization**; and collaboration with clinical and research teams on scalable methods.
+
+Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (SQL, Excel, R, BI); **Implementation Specialist** at Ness Technologies (SAP financial data).
+
+**Languages:** Hebrew (native) · English (fluent)
+
+---
+
 #### Tech stack (icons)
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,pandas,numpy,postgres,git,jupyter&perline=9" alt="skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,pandas,numpy,postgres,git,jupyter&perline=9" alt="Python, R, TensorFlow, PyTorch, pandas, NumPy, PostgreSQL, Git, Jupyter" /></a>
 </p>
 
 ---
