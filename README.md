@@ -24,7 +24,7 @@ Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (
 
 **Visualization & BI:** Tableau, Power BI, matplotlib, ggplot2
 
-**Tools:** Git, Docker (dev & deployment workflows), advanced Excel
+**Tools:** Git, advanced Excel
 
 **NLP / LLM stack (where relevant):** transformers, **spaCy**
 
@@ -33,7 +33,7 @@ Earlier experience: **Student Data Analyst** at the Israel Ministry of Finance (
 #### Tech stack (icons)
 
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,pandas,numpy,postgres,docker,git&perline=9" alt="skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,pandas,numpy,postgres,git,jupyter&perline=9" alt="skills" /></a>
 </p>
 
 ---
